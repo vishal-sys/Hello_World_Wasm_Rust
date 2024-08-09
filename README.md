@@ -1,1 +1,1 @@
-Building a Rust WebAssembly example
+*Building a Rust WebAssembly example*
